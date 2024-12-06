@@ -1,0 +1,1000 @@
+age,Gender,EAS Regimen,Intent,ICD code,T,N,M,EAS Performance status,Immunotherapy Response,Histology Type
+63,Female,Pembrolizumab,PALLIATIVE,C34.9,2,0,0,1, ,Adenocarcinoma NOS
+58,Male,Pembrolizumab,PALLIATIVE,C34.9,2,3,0,1, ,Adenocarcinoma NOS
+64,Female,Atezolizumab,PALLIATIVE,C34.9,1,1,0,1,Dec 2008 PR,Adenocarcinoma NOS
+85,Female,Nivolumab,PALLIATIVE,C34.9,2,0,0,1, ,Squamous cell carcinoma
+74,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,X,1,1,2,Jan 2017 PD,Adenocarcinoma
+37,Female,Atezolizumab,PALLIATIVE,C34.9,2,0,1,1, ,Adenocarcinoma+Large Cell Neuroendocrine
+71,Female,Pembrolizumab,PALLIATIVE,C34.9,1,0,0,1,Oct 2020 PR ,Adenocarcinoma NOS
+63,Male,Nivolumab ,PALLIATIVE,C34.9,0,0,0,1,Aug 2015 PR,Squamous cell carcinoma
+69,Male,Pembrolizumab,PALLIATIVE,C34.9,0,1,0,1,PR,Adenocarcinoma NOS
+77,Male,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1,July 2018 PR ,Squamous cell carcinoma
+76,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma NOS
+77,Female,Pembrolizumab,PALLIATIVE,C34.9,X,2,1,1,Jan 2020 PD,Adenocarcinoma NOS
+72,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1,Nov 2020 PR,Adenocarcinoma NOS
+53,Female,Nivolumab,PALLIATIVE,C34.9,4,2,0,1,Sept 2016 PD,Squamous cell carcinoma
+54,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,0,1, ,Adenocarcinoma NOS
+69,Female,Atezolizumab,PALLIATIVE,C34.9,4,2,0,1,Jan 2019 PD,Adenocarcinoma NOS
+80,Male,Pembrolizumab,PALLIATIVE,C34.9,1,3,1,1, ,Adenocarcinoma NOS
+81,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,1,1, ,Adenocarcinoma NOS
+63,Female,Pembrolizumab,PALLIATIVE,C34.9,2,2,1,1, ,Adenocarcinoma NOS
+66,Male,Nivolumab,PALLIATIVE,C34.9,0,0,0,1, ,Squamous cell carcinoma
+74,Female,Pembrolizumab,PALLIATIVE,C34.9,2,2,0,1,PD,Adenocarcinoma NOS
+72,Female,Atezolizumab,PALLIATIVE,C34.9,0,0,0,0,PD,Adenocarcinoma NOS
+71,Male,Pembrolizumab,PALLIATIVE,C34.9,1,0,1,2, ,Adenocarcinoma NOS
+70,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma NOS
+62,Female,Pembrolizumab,PALLIATIVE,C34.9,1,2,0,1,PD,Adenocarcinoma NOS
+58,Male,Atezolizumab,PALLIATIVE,C34.9,1,3,0,1,March 2019 PD,Adenocarcinoma NOS
+72,Male,Nivolumab,PALLIATIVE,C34.9,0,0,0,1,PD,Squamous cell carcinoma
+75,Male,Nivolumab,PALLIATIVE,C34.9,3,2,1,1, ,
+72,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,PR,Adenocarcinoma NOS
+71,Male,Pembrolizumab,PALLIATIVE,C34.9,2,3,0,2,July 2017 PD,
+60,Female,Pembrolizumab,PALLIATIVE,C34.9,2,2,1,1,SD,Adenocarcinoma NOS
+64,Male,Nivolumab,PALLIATIVE,C34.9,1,3,0,1,Aug 2018 Tx stopped due to renal impairment,Squamous cell carcinoma
+78,Male,Nivolumab,PALLIATIVE,C34.9,2,3,1,1,PD,Squamous cell carcinoma
+68,Male,Nivolumab,PALLIATIVE,C34.9,4,2,0,1, ,Squamous cell carcinoma
+49,Male,Nivolumab,PALLIATIVE,C34.9,1,3,1,1,Aug 2015 PR,Squamous cell carcinoma
+82,Male,Pembrolizumab,PALLIATIVE,C34.9,1,0,1,1, ,
+60,Female,Nivolumab,PALLIATIVE,C34.9,3,2,1,1,April 2018 PR,Adenocarcinoma NOS
+72,Female,Nivolumab,PALLIATIVE,C34.9,1,3,1,1, ,Squamous cell carcinoma
+68,Male,Nivolumab,PALLIATIVE,C34.9,2,2,0,2, ,Squamous cell carcinoma
+66,Female,Pembrolizumab,PALLIATIVE,C34.9,1,2,0,1,May 2019 SD,Adenocarcinoma NOS
+73,Male,Nivolumab,PALLIATIVE,C34.9,2,3,0,1,PD,Squamous cell carcinoma
+73,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma NOS
+66,Female,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma NOS
+67,Female,Pembrolizumab for previous metastatic NSCLC,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma NOS
+64,Male,Nivolumab,PALLIATIVE,C34.9,2,1,0,1, ,Squamous cell carcinoma
+77,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,2,1,1, ,Adenocarcinoma NOS
+57,Male,Nivolumab,PALLIATIVE,C34.9,3,3,1,1, ,Squamous cell carcinoma
+81,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,1,1,PD,Squamous cell carcinoma
+76,Male,Nivolumab,PALLIATIVE,C34.9,X,0,1,1,Aug 2016 SD,Adenocarcinoma NOS
+44,Male,Nivolumab,PALLIATIVE,C34.9,4,0,1,1,July 2016 PR ,Adenocarcinoma NOS
+62,Female,Nivolumab,PALLIATIVE,C34.9,3,1,0,1,Sept 2016 PR,
+64,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,2,Jan 2017 PD,Adenocarcinoma NOS
+64,Female,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1,PD ,Adenocarcinoma NOS
+54,Female,Pembrolizumab,PALLIATIVE,C34.9,1,1,0,1, ,Adenocarcinoma NOS
+52,Female,Atezolizumab,PALLIATIVE,C34.9,2,0,0,1,Feb 2019 PD,Adenocarcinoma NOS
+58,Female,Nivolumab,PALLIATIVE,C34.9,4,2,1,1,Oct 2016 PD,Small cell lung cancer 
+63,Female,Nivolumab (First course),PALLIATIVE,C34.9,4,3,0,1, ,Small cell lung cancer 
+73,Male,Pembrolizumab,PALLIATIVE,C34.9,2,2,0,1,PD,Squamous cell carcinoma
+58,Female,Pembrolizumab,PALLIATIVE,C34.9,2,0,1,0,PD,Adenocarcinoma NOS
+68,Female,Pembrolizumab,PALLIATIVE,C34.9,2,2,0,2, ,Squamous cell carcinoma
+61,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,3,2,0,1,PD,Adenocarcinoma NOS
+68,Female,Nivolumab,PALLIATIVE,C34.9,2,2,1,1, ,
+54,Female,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,2,PD,Adenocarcinoma NOS
+73,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,0,1,1,PD,Adenocarcinoma NOS
+65,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1, ,Adenocarcinoma NOS
+69,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma NOS
+69,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,0,1, ,Adenocarcinoma NOS
+56,Female,Pembrolizumab,PALLIATIVE,C34.9,1,2,1,2, , 
+49,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Squamous cell carcinoma
+81,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,3,0,1,July 2017 PD,Squamous cell carcinoma
+70,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,SD,Adenocarcinoma NOS
+57,Female,Pembrolizumab,PALLIATIVE,C34.9,4,0,1,2,PD,Adenocarcinoma NOS
+60,Female,Pembrolizumab,PALLIATIVE,C34.9,X,3,1,1, ,Adenocarcinoma NOS
+60,Female,Atezolizumab,PALLIATIVE,C34.9,1,2,0,1,"May 2019 PD, May 2020 PD",Adenocarcinoma
+70,Male,Pembrolizumab,PALLIATIVE,C34.9,3,1,1,1,Sept 2017 rPD,Squamous cell carcinoma
+66,Female,Pembrolizumab/Afatinib ,ADJUVANT,C34.9,1,1,0,1,"Dec 2017 PD, March 2018 PD",Adenocarcinoma
+45,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+68,Male,Nivolumab,PALLIATIVE,C34.9,4,1,1,1, ,Squamous cell carcinoma
+53,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma
+79,Male,Pembrolizumab,PALLIATIVE,C34.9,2,2,1,1,35 cycles Nov 2018,Adenocarcinoma
+77,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,4,3,1,1,Jan 2017 PR , 
+65,Male,Pembrolizumab,PALLIATIVE,C34.9,1,3,0,1, ,Adenocarcinoma NOS
+65,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,3,2,1,2, ,
+81,Male,Pembrolizumab,PALLIATIVE,C34.9,0,0,0,2,April 2017 SD,Adenocarcinoma
+55,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,0,1,PD.,Adenocarcinoma
+71,Female,Atezolizumab,PALLIATIVE,C34.9,4,2,1,1,Jan 2019 PD,Squamous cell carcinoma
+83,Male,Pembrolizumab,PALLIATIVE,C34.9,2,1,1,1,SD. ,Adenocarcinoma
+57,Female,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma
+75,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,3,1,2, ,Squamous cell carcinoma
+64,Male,Pembrolizumab,PALLIATIVE,C34.9,2,2,0,1,PD,Squamous cell carcinoma
+72,Male,Atezolizumab,PALLIATIVE,C34.9,4,0,0,1,June 2019 PD,Adenocarcinoma
+75,Male,Pembrolizumab,PALLIATIVE,C34.9,4,0,1,2, ,Squamous cell carcinoma
+74,Female,Pembrolizumab,PALLIATIVE,C34.9,1,1,1,1, ,Adenocarcinoma
+68,Male,Pembrolizumab,ADJUVANT,C34.9,2,1,0,1, ,Squamous cell carcinoma
+65,Female,Atezolizumab,PALLIATIVE,C34.9,0,0,0,1, ,Adenocarcinoma
+68,Female,Pembrolizumab,PALLIATIVE,C34.9,3,0,0,1, ,Squamous cell carcinoma
+79,Female,Pembrolizumab first-line,PALLIATIVE,C34.9,0,0,0,1,March 2018 PD,Adenocarcinoma
+64,Female,Pembrolizumab,PALLIATIVE,C34.9,0,0,0,2, ,Adenocarcinoma
+68,Female,Atezolizumab,PALLIATIVE,C34.9,2,0,0,1, ,Squamous cell carcinoma
+71,Male,Atezolizumab,PALLIATIVE,C34.9,2,0,0,1,PD,Squamous cell carcinoma
+56,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,1,0,1,1, ,Adenocarcinoma
+68,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma
+73,Male,Nivolumab,PALLIATIVE,C34.9,1,0,0,1,March 2018 PD,Squamous cell carcinoma
+77,Male,Atezolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+66,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,2,0,1,Feb 2018 Pembrolizumab PD.,Adenocarcinoma
+77,Male,Pembrolizumab,PALLIATIVE,C34.9,4,1,0,1,PD,Adenocarcinoma
+74,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,3,1,1,Completed 35 cycles Sept 2019,Adenocarcinoma
+61,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+71,Female,Atezolizumab,PALLIATIVE,C34.9,0,0,1,1,Not started,Adenocarcinoma
+77,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,2,Stopped due to stroke ,Adenocarcinoma
+77,Male,Nivolumab,PALLIATIVE,C34.9,0,0,0,1,May 2018 PD ,Squamous cell carcinoma
+73,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,4,0,1,1, ,Adenocarcinoma
+74,Male,Atezolizumab,PALLIATIVE,C34.9,2,0,0,1, ,Adenocarcinoma
+43,Male,"Atezolizumab in combination with bevacizumab, paclitaxel and carboplatin",PALLIATIVE,C34.9,2,2,1,1,PD. ,Adenocarcinoma
+56,Female,Atezolizumab (+Nintedanib),PALLIATIVE,C34.9,4,0,1,1,"Dec 2018 PD, March 2019 PD",Adenocarcinoma
+67,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma
+69,Male,Atezolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+81,Female,Atezolizumab,PALLIATIVE,C34.9,1,3,1,1,PR,Squamous cell carcinoma
+49,Female,Pembrolizumab for untreated metastatic NSCLC first-line ,PALLIATIVE,C34.9,2,3,1,1,June 2020 33 cycles of Pem,Adenocarcinoma
+70,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,4,3,1,1, ,Squamous cell carcinoma
+71,Male,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,X,0,1,1,"Jan 2018 PR, on hold due to complications ",Adenocarcinoma
+75,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma
+61,Female,Atezolizumab (+Nintedanib),PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+62,Female,Nivolumab,PALLIATIVE,C34.9,4,1,1,1,March 2018 PR,Squamous cell carcinoma
+68,Male,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,3,0,1,1, ,NSCLC? Squamous? Small cell?
+69,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,X,0,1,1, ,Adenocarcinoma
+67,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,2,0,0,1,March 2019 PD,Adenocarcinoma
+71,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,July 2018 PD,Small cell lung cancer
+68,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,4,3,1,1,"Feb 2018 PR, Dec 2018 stopped",Adenocarcinoma
+79,Male,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,2,1,1,1,April 2018 PD,Adenocarcinoma
+71,Male,Atezolizumab,PALLIATIVE,C34.9,4,2,0,1,Jan 2019 PD,Adenocarcinoma
+62,Female,Pembrolizumab,PALLIATIVE,C34.9,4,0,1,1,June 2021 PD,Adenocarcinoma
+77,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,X,0,1,2,Aug 2018 PD,Adenocarcinoma
+60,Female,Atezolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+41,Female,Afatinib + Atezolizumab,PALLIATIVE,C34.9,4,2,1,0,May 2018 PD,Adenocarcinoma
+68,Male,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,1,0,1,Feb 2020 PR,Adenocarcinoma
+48,Male,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+75,Female,Pembrolizumab for untreated metastatic NSCLC,PALLIATIVE,C34.9,4,1,1,1,PD ,Adenocarcinoma
+62,Female,Atezolizumab,PALLIATIVE,C34.9,4,3,1,1,Dec 2020 PD,Squamous cell carcinoma
+68,Male,Pembrolizumab,PALLIATIVE,C34.9,3,0,1,1, ,Squamous cell carcinoma
+73,Male,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1, ,Adenocarcinoma
+29,Female,Atezolizumab + other drugs,PALLIATIVE,C34.9,3,1,1,1, ,Adenocarcinoma
+67,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,PD,Adenocarcinoma
+63,Female,Pembrolizumab,PALLIATIVE,C34.9,4,0,0,1, ,Adenosquamous
+67,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+55,Male,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1," PD,",Adenocarcinoma
+66,Male,Atezolizumab,PALLIATIVE,C34.9,3,0,0,1, ,Squamous cell carcinoma
+60,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,July 2021 PD,Small cell lung cancer
+73,Male,Pembrolizumab,PALLIATIVE,C34.9,2,2,1,1,PD,Small cell lung cancer
+66,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1,Sept 2020 PR,Adenocarcinoma
+71,Female,Atezolizumab,PALLIATIVE,C34.9,4,2,1,1,April 2021 PD,Adenocarcinoma
+59,Female,Atezolizumab,PALLIATIVE,C34.9,3,0,1,1, ,Adenocarcinoma
+77,Female,Atezolizumab,PALLIATIVE,C34.9,4,2,0,2, ,
+82,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Squamous cell carcinoma
+78,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1," PD,",Adenocarcinoma
+66,Male,Atezolizumab,PALLIATIVE,C34.9,2,2,1,1, ,Squamous cell carcinoma
+55,Female,Atezolizumab,PALLIATIVE,C34.9,4,2,1,1,"July 2021 PR,",Small cell lung cancer
+71,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1,"Jan 2019 PD, ",Adenocarcinoma
+46,Male,Pembrolizumab,PALLIATIVE,C34.9,1,0,1,1,May 2021 PR,Adenocarcinoma
+65,Male,Pembrolizumab,PALLIATIVE,C34.9,2,0,0,1, ,Adenocarcinoma
+71,Female,Pembrolizumab,PALLIATIVE,C34.9,3,0,1,1,Jan 2019 PD,Adenocarcinoma
+75,Male,Pembrolizumab,PALLIATIVE,C34.9,2,2,1,1,"April 2019 PR, Feb 2021 PR",Adenocarcinoma
+68,Female,Atezolizumab,PALLIATIVE,C34.9,4,1,0,1, ,Squamous cell carcinoma
+71,Male,Durvalumab,ADJUVANT,C34.9,3,2,0,1, ,NSCLC
+85,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,PD ,Adenocarcinoma
+63,Female,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1,Nov 2019 PD,Adenocarcinoma
+72,Female,Pembrolizumab,PALLIATIVE,C34.9,4,0,1,1,SD,Adenocarcinoma
+60,Female,Pembrolizumab,PALLIATIVE,C34.9,1,2,0,1, ,Adenocarcinoma
+69,Male,Durvalumab,ADJUVANT,C34.9,4,2,0,0, ,Adenocarcinoma
+73,Female,Pembrolizumab,NEOADJ.,C34.9,3,2,0,1, ,Squamous cell carcinoma
+86,Female,Atezolizumab,PALLIATIVE,C34.9,0,0,0,1,March/April 2020 PD ,Adenocarcinoma
+57,Male,Atezolizumab (+Afatinib),PALLIATIVE,C34.9,4,3,1,0,May 2021 PD,Adenocarcinoma
+58,Male,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1,"May 2019 PD, ",Adenocarcinoma
+65,Male,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+47,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Squamous cell carcinoma
+57,Male,Atezolizumab,PALLIATIVE,C34.9,1,1,1,2, ,Adenocarcinoma
+64,Female,Durvalumab,ADJUVANT,C34.9,2,2,0,1,PD,Adenocarcinoma
+74,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,0,1, ,
+79,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1,2019 PD,Adenocarcinoma
+84,Male,Pembrolizumab,PALLIATIVE,C34.9,1,2,0,1, , 
+78,Female,Durvalumab,ADJUVANT,C34.9,2,2,0,1, ,Adenocarcinoma
+66,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,1,1,PR ,Adenocarcinoma
+60,Female,Pembrolizumab,PALLIATIVE,C34.9,2,0,1,1, ,Adenocarcinoma
+62,Female,Atezolizumab,PALLIATIVE,C34.9,1,3,1,1,PD ,Adenocarcinoma
+72,Female,Atezolizumab,PALLIATIVE,C34.9,3,0,1,1,PD ,Squamous cell carcinoma
+76,Male,Pembrolizumab,PALLIATIVE,C34.9,0,3,1,1, ,Adenocarcinoma
+52,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Large cell anaplastic
+75,Male,Pembrolizumab,PALLIATIVE,C34.9,3,0,0,1,July 2021 PD ,Squamous cell carcinoma
+52,Male,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,4,2,0,1,?,Squamous cell carcinoma
+66,Female,Atezolizumab,PALLIATIVE,C34.9,3,1,1,1,"May 2020 PD, July 2020 PD ",Adenocarcinoma
+75,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,Aug 2020 PD ,Squamous cell carcinoma
+66,Female,Pembrolizumab (in combination with carboplatin/pemetrexed),PALLIATIVE,C34.9,3,3,1,1,PD ,Adenocarcinoma
+59,Male,Pembrolizumab (in combination with carboplatin/pemetrexed),PALLIATIVE,C34.9,4,1,1,1,PD,Adenocarcinoma
+61,Female,Pembrolizumab,PALLIATIVE,C34.9,X,3,1,0,PD , 
+76,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1, ,Adenocarcinoma
+59,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+46,Male,Pembrolizumab (in combination with carboplatin/pemetrexed),PALLIATIVE,C34.9,3,3,1,1,PR,Adenocarcinoma
+67,Female,Pembrolizumab (in combination with carboplatin/pemetrexed),PALLIATIVE,C34.9,4,0,1,1, ,Adenocarcinoma
+75,Male,Pembrolizumab,PALLIATIVE,C34.9,3,0,0,1,April 2021 PR,Adenocarcinoma
+61,Female,Pembrolizumab (in combination with carboplatin/pemetrexed),PALLIATIVE,C34.9,4,0,1,1,PD ,Adenocarcinoma
+65,Male,Pembrolizumab (in combination with carboplatin and paclitaxel) then single agent,PALLIATIVE,C34.9,4,2,1,1,Feb 2020 PR ,Squamous cell carcinoma
+72,Male,Pembrolizumab,PALLIATIVE,C34.9,4,1,1,1, ,Adenocarcinoma
+67,Female,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+63,Male,Pembrolizumab (in combination with carboplatin and paclitaxel) and single agent Pembrolizumab,NEOADJ.,C34.9,4,2,0,1,PD,Squamous cell carcinoma
+53,Male,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,4,2,1,1,PD ,Adenocarcinoma
+76,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,2,0,1, ,Adenocarcinoma
+68,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,3,1,1,"April 2020 PD, May 2020 RIP ",Adenocarcinoma
+52,Male,Atezolizumab,PALLIATIVE,C34.9,4,1,0,1,PR,Small cell lung cancer
+55,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,0,0,0,1, ,Adenocarcinoma
+72,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,0,1,"Aug 2020 PR, Nov 2020 PR",Squamous cell carcinoma
+44,Female,Atezolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Mixed adenocarcinoma/small cell carcinoma
+50,Female,Pembrolizumab,PALLIATIVE,C34.9,3,2,0,0,Nov 2020 PR ,Adenocarcinoma
+58,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,1,1,PD ,Adenocarcinoma
+54,Male,Atezolizumab (+Carboplatin/Etoposide),PALLIATIVE,C34.9,4,2,1,1, ,High grade neoendocrine carcinoma of the lung.
+75,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,0,0,0,1, ,Adenocarcinoma
+69,Female,Durvalumab,CONC.,C34.9,4,2,0,1, , 
+67,Female,Pembrolizumab,PALLIATIVE,C34.9,4,1,0,1, ,Squamous cell carcinoma
+72,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,2,3,1,1,June 2020 PR,Small cell lung cancer
+72,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1,PD,Adenocarcinoma
+79,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,4,3,1,1,PD,Small cell lung cancer
+71,Female,Pembrolizumab,PALLIATIVE,C34.9,2,0,0,1,PR,Adenocarcinoma
+77,Male,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,2,2,1,1,PD ,Squamous cell carcinoma
+78,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,2,1,1,SD?,Adenocarcinoma
+52,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,0,3,1,0,PD ,Small cell lung cancer
+74,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,2,3,1,1,April 2021 PD,Small cell lung cancer
+70,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+85,Male,Atezolizumab,PALLIATIVE,C34.9,3,3,1,1, ,Squamous cell carcinoma
+56,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,3,1,1,PR,Adenocarcinoma
+75,Female,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,2,2,0,1, ,Squamous cell carcinoma
+85,Male,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1,May 2021 PD,Adenocarcinoma
+57,Female,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,4,2,0,1, ,Squamous cell carcinoma
+72,Female,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,1,1,1,2, ,Small cell lung cancer
+67,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+89,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,0,1,Jan 2021 PR ,Adenocarcinoma
+47,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,X,2,1,1,Jan 2020 PD,Adenocarcinoma
+69,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,1,1,0,SD,Adenocarcinoma
+51,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,0,1,Nov 2020 PR ,Adenocarcinoma
+58,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,2,0,0,June 2021 PD ,Adenocarcinoma
+74,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1, ,Adenocarcinoma
+76,Male,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1,Jan 2021 PR ,Adenocarcinoma
+80,Female,Pembrolizumab,PALLIATIVE,C34.9,2,3,1,1, ,Adenocarcinoma
+50,Female,Pembrolizumab (in combination with carboplatin and paclitaxel) ,PALLIATIVE,C34.9,4,3,1,1, ,Squamous cell carcinoma
+74,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,1,2,1,1,April 2021 PD,Small cell lung cancer
+50,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,2,0,1, ,Adenocarcinoma
+75,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+69,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,1,1,1, ,Adenocarcinoma
+82,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,2,March 2021 PD,Adenocarcinoma
+73,Male,Pembrolizumab,PALLIATIVE,C34.9,3,3,1,1,May 2021 PR ,Adenocarcinoma
+64,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,3,2,1,1, ,Small cell lung cancer
+73,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,2,0,1, ,Adenocarcinoma
+68,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,3,2,1,1, ,Adenocarcinoma
+66,Female,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,4,2,1,1,"July 2021 PR, July 2021 PR/CR?",Small cell lung cancer
+83,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,0,1,1,?,Adenocarcinoma
+57,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,0,1,1, ,Adenocarcinoma
+74,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,2,1,1,June 2021 PD ,Adenocarcinoma
+68,Male,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,3,2,0,1,July 2021 PR ,Squamous cell carcinoma
+55,Male,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,3,3,1,1,July 2021 PD,Small cell lung cancer
+62,Female,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,1,0,1,1,May 2021 PR ,Small cell lung cancer
+66,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+66,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,0, ,Adenocarcinoma
+73,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,0,1, ,Adenocarcinoma
+76,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,3,2,1,1, ,Adenocarcinoma
+67,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+53,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,2,2,1,1, ,Adenocarcinoma
+74,Female,Pembrolizumab (in combination with carboplatin and paclitaxel),PALLIATIVE,C34.9,2,3,1,0, ,Squamous cell carcinoma
+75,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,0,0,0, ,Adenocarcinoma
+80,Female,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,4,3,1,1, ,Small cell lung cancer
+64,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+84,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,1, ,Adenocarcinoma
+65,Female,Pembrolizumab,PALLIATIVE,C34.9,1,2,1,1,PD?,Adenocarcinoma
+82,Male,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1,May 2019 PR ,
+81,Male,Pembrolizumab for previously treated metastatic NSCLC ,PALLIATIVE,C34.9,4,2,0,1,AI = PD,Squamous cell carcinoma
+81,Male,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1,Aug 2019 PD,Adenocarcinoma
+67,Female,Durvalumab,ADJUVANT,C34.9,3,3,0,1,July 2020 PR ,Adenocarcinoma
+69,Female,Atezolizumab,PALLIATIVE,C34.9,4,3,1,1,June 2019 PD,Adenocarcinoma
+51,Female,Atezolizumab (+Carboplatin & Etoposide),PALLIATIVE,C34.9,4,1,1,1,Feb 2021 PD,Small cell lung cancer
+70,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1,PD?,
+73,Female,Atezolizumab,PALLIATIVE,C34.9,2,2,0,1,AI = PD,Adenocarcinoma
+73,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,4,3,0,1, ,Adenocarcinoma
+75,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,2,0,0,1, ,Adenocarcinoma
+86,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,0,1,Jan 2019 PD,
+68,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,1,1,June 2021 PR ,Adenocarcinoma
+61,Female,Pembrolizumab,PALLIATIVE,C34.9,3,2,1,1,Jan 2021- completed 35 cycles - PR?,Adenocarcinoma
+67,Male,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,1,2,1,1,PD ,Adenocarcinoma
+51,Female,Pembrolizumab for previously treated metastatic NSCLC,PALLIATIVE,C34.9,4,1,1,1,July 2017 stopped - toxicity,Adenocarcinoma
+93,Female,Pembrolizumab,PALLIATIVE,C34.9,4,3,1,1,Feb 2021 PD,Adenocarcinoma
+76,Female,Pembrolizumab,PALLIATIVE,C34.9,4,2,1,2, ,Adenocarcinoma
+62,Male,Durvalumab,ADJUVANT,C34.9,4,2,0,1, ,Squamous cell carcinoma
+79,Female,Atezolizumab,PALLIATIVE,C34.9,1,2,0,1, ,Squamous cell carcinoma
+72,Male,Adjuvant Durvulumab ,ADJUVANT,C34.9,2,2,0,1, ,Squamous cell carcinoma
+79,Female,Pembrolizumab (in combination with carboplatin and permetrexed),PALLIATIVE,C34.9,4,3,1,1, ,Adenocarcinoma
+64,Male,Pembrolizumab,PALLIATIVE,C45.0,3,2,0,1, ,Mesothelioma
+70,Female,Pembrolizumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+67,Male,Pembrolizumab,PALLIATIVE,C45.0,2,2,0,1, ,Mesothelioma
+71,Male,Pembrolizumab,PALLIATIVE,C45.0,2,0,0,1, ,Mesothelioma
+53,Female,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+67,Male,Pembrolizumab,PALLIATIVE,C45.0,0,0,0,1,Oct 2018 PD,Mesothelioma
+52,Male,Nivolumab,PALLIATIVE,C45.0,2,0,0,1, ,Mesothelioma
+68,Male,Pembrolizumab,PALLIATIVE,C45.0,2,0,0,1, ,Mesothelioma
+63,Male,Pembrolizumab,PALLIATIVE,C45.0,3,2,0,1,April 2017 PR,Mesothelioma
+70,Male,Pembrolizumab,PALLIATIVE,C45.0,3,0,0,1,jUNE 2018 pr,Mesothelioma
+75,Male,Pembrolizumab,PALLIATIVE,C45.0,4,2,1,1,PD,Mesothelioma
+73,Male,Atezolizumab,PALLIATIVE,C45.0,2,0,0,1,Oct 2020 SD,Mesothelioma
+64,Male,Pembrolizumab,PALLIATIVE,C45.0,0,0,0,1,April 2018 SD,Mesothelioma
+70,Male,Pembrolizumab,PALLIATIVE,C45.0,3,0,0,1,Feb 2018 PR,Mesothelioma
+66,Male,Pembrolizumab,PALLIATIVE,C45.0,0,0,0,1,April 2018 PR,Mesothelioma
+69,Female,Atezolizumab,PALLIATIVE,C34.9,3,0,0,1,Jan 2019 PD,Large Cell Carcinoma
+82,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+68,Male,Atezolizumab,PALLIATIVE,C45.0,2,3,0,1,Oct 2020 PR,Mesothelioma
+76,Male,Nivolumab,PALLIATIVE,C45.0,0,0,0,1,April 2021 SD,Mesothelioma
+76,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+68,Male,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+81,Male,Pembrolizumab,PALLIATIVE,C34.9,1,3,0,1,PD,Adenocarcinoma
+52,Female,Nivolumab,PALLIATIVE,C45.0,4,0,0,1, ,Mesothelioma
+76,Male,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+73,Male,Nivolumab,PALLIATIVE,C45.0,2,2,0,1,March 2021 PD,Mesothelioma
+70,Male,Atezolizumab,PALLIATIVE,C45.0,3,1,0,1,Aug 2020 PD,Mesothelioma
+66,Male,Atezolizumab,PALLIATIVE,C45.0,3,1,0,1,Aug 2020 PD,Mesothelioma
+77,Male,Atezolizumab,PALLIATIVE,C45.0,0,0,0,1,PD,Mesothelioma
+59,Female,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+72,Male,Atezolizumab,PALLIATIVE,C45.0,0,0,0,1,PD,Mesothelioma
+68,Male,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+72,Male,Atezolizumab,PALLIATIVE,C45.0,1,0,0,0,Jan 2021 PR,Mesothelioma
+53,Female,,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+71,Male,"NIVOLUMAB -Subsequent Course,Nivolumab - Day 29,Nivolumab and Ipilimumab - Day 1,Nivolumab - Day 15",PALLIATIVE,C45.0,3,1,0,1,April 2021 PD,Mesothelioma
+72,Male,Atezoluzimab ,PALLIATIVE,C45.0,4,1,1,1,May 2021 SD,Mesothelioma
+68,Male,Nivolumab,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+68,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,3,1,0,1, ,Mesothelioma
+65,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,4,1,0,1, ,Mesothelioma
+80,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+72,Male,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,2,0,0,1, ,Mesothelioma
+64,Male,Atezoluzimab ,PALLIATIVE,C45.0,0,0,0,1, ,Mesothelioma
+70,Female,Nivolumab and Ipilimumab for mesothelioma (EAMs),PALLIATIVE,C45.0,0,0,0,1,March 2021 PR ,Mesothelioma
+61,Male,Nivolumab,PALLIATIVE,C45.1,4,1,0,1, ,Mesothelioma
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
