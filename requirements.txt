@@ -1,10 +1,9 @@
-streamlit
-scikit-learn
-matplotlib
-pandas
-shap>=0.40.0
-numpy>=1.20.0
-reportlab==3.6.0  
-setuptools
-seaborn>=0.12.2
+streamlit==1.10.0
+pandas==1.4.2
+numpy==1.22.4
+scikit-learn==1.0.2
+shap==0.39.0
+matplotlib==3.5.2
+seaborn==0.11.2
+reportlab==3.6.12
 
