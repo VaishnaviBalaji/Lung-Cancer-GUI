@@ -4,3 +4,4 @@ matplotlib
 pandas
 shap>=0.40.0
 numpy>=1.20.0
+seaborn
