@@ -5,5 +5,6 @@ pandas
 shap>=0.40.0
 numpy>=1.20.0
 reportlab==3.6.0  
-seaborn>=0.12.2
+seaborn==0.11.2
+setuptools
 
